@@ -1,0 +1,4 @@
+Config\Connect.class
+Model\UserDAO.class
+Controller\UsersController.class
+Model\UserModel.class

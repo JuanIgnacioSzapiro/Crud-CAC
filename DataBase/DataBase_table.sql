@@ -1,0 +1,1 @@
+SELECT * FROM crud_cac.crud_cac_table;
